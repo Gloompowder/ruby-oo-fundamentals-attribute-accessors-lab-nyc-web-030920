@@ -5,6 +5,6 @@ def initialize(name="Maru")
   @name=name
 end
 def meow 
-  puts "Meow"
+  puts "meow!"
 end
 end 
