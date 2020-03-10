@@ -1,5 +1,5 @@
 ## code your solution here. 
 class Cat 
-def initialize (name="Maru") 
+def initialize (name)
 end
 end 
