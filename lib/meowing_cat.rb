@@ -1,5 +1,5 @@
 ## code your solution here. 
 class Cat 
-def initialize
+def initialize (1)
 end
 end 
